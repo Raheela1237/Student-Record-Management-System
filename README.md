@@ -64,11 +64,14 @@ CodeNova Batch 01 — Python Track
 ### 3. Add Student
 ![Add Student](add_student.png.png)
 
-
+### 4. View Details
+![View Details](View.png.png)
 
 ### 5. Search by ID
 ![Search by ID](Search_BY_ID.png.png)
 
+6. Search by Name
+![Search by Name](Search_BY_Name.png.png)
 
 ### 7. Delete Student
 ![Delete](Delete.png.png)
