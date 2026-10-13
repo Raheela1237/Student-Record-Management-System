@@ -65,7 +65,7 @@ CodeNova Batch 01 — Python Track
 ![Add Student](add_student.png.png)
 
 ### 4. View Details
-![View Details](View.png.png)
+![View Details](view_details.png.png)
 
 ### 5. Search by ID
 ![Search by ID](Search_BY_ID.png.png)
