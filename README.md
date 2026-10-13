@@ -52,31 +52,31 @@ CodeNova Batch 01 — Python Track
 ## Screenshots
 
 ### 1. Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.png.png)
 
 ### 2. Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### 3. Add Student
-![Add Student](screenshots/add_student.png)
+![Add Student](screenshots/add_student.png.png)
 
 ### 4. View Details
-![View Details](screenshots/view_details.png)
+![View Details](screenshots/view_details.png.png)
 
 ### 5. Search by ID
-![Search by ID](screenshots/Search_BY_ID.png)
+![Search by ID](screenshots/Search_BY_ID.png.png)
 
 ### 6. Search by Name
-![Search by Name](screenshots/Search_by_Name.png)
+![Search by Name](screenshots/Search_by_Name.png.png)
 
 ### 7. Delete Student
-![Delete](screenshots/Delete.png)
+![Delete](screenshots/Delete.png.png)
 
 ### 8. Change Password
-![Change Password](screenshots/Change_password.png)
+![Change Password](screenshots/Change_password.png.png)
 
 ### 9. Analytics Charts
-![Charts](screenshots/Charts.png)
+![Charts](screenshots/Charts.png.png)
 
 ### 10. About
-![About](screenshots/About.png)
+![About](screenshots/About.png.png)
